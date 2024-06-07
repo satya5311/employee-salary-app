@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: employee-salary-app
-        image: your-dockerhub-username/employee-salary-app:latest
+        image: satyaprakash33372/employee-salary-app:latest
         ports:
         - containerPort: 5000
 
