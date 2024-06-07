@@ -1,0 +1,6 @@
+[
+    {"id": 1, "name": "John Doe", "position": "Software Engineer", "salary": 75000},
+    {"id": 2, "name": "Jane Smith", "position": "Project Manager", "salary": 85000},
+    {"id": 3, "name": "Sam Johnson", "position": "UX Designer", "salary": 65000}
+]
+
